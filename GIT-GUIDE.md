@@ -32,3 +32,6 @@
 
   * Merge conflict: `git commit -a`, then open file, make corrections, add, commit, push.
   * Rollback: **TO BE LEARNED BY 11/05**
+5. **Misc**
+
+  * Acces repos you've been invited to : Go to Gthub -> Right corner drop-down list (with profile) -> Settings
